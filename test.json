@@ -1,12 +1,12 @@
 {
-  "url": "https://github.com/Qwertyps001/swagger-xss-test/blob/main/test.yaml",
+  "url": "https://raw.githubusercontent.com/Qwertyps001/swagger-xss-test/refs/heads/main/test.yaml",
   "urls": [
     {
-      "url": "https://github.com/Qwertyps001/swagger-xss-test/blob/main/test.yaml",
+      "url": "https://raw.githubusercontent.com/Qwertyps001/swagger-xss-test/refs/heads/main/test.yaml",
       "name": "Foo"
     },
     {
-      "url": "https://github.com/Qwertyps001/swagger-xss-test/blob/main/test.yaml",
+      "url": "https://raw.githubusercontent.com/Qwertyps001/swagger-xss-test/refs/heads/main/test.yaml",
       "name": "Foo2"
     }
   ]
